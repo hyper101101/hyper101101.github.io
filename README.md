@@ -40,6 +40,41 @@ My primary career goal is to become a **Backend Engineer**, while expanding my k
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
+
+### 🚀 Featured Projects
+
+#### 🏭 Bujari Management System
+**Personal Project | Locally Executed**
+
+A Laravel-based management and accounting application developed for a barberry processing factory.
+
+**Technologies:** PHP, Laravel, MySQL
+
+**Key Features:**
+- Purchase and sales management
+- Customer account management
+- Sorting operations management
+- Financial records
+- Receipt generation and printing
+- Local network architecture
+
+#### 🌱 Nasl Aftab
+**Personal Project | In Development**
+
+A web-based e-commerce platform designed for selling agricultural products.
+
+**Technologies:** PHP, Laravel, React, Inertia.js, MySQL
+
+**Project Focus:**
+- Product and inventory management
+- User authentication
+- Shopping cart and order management
+- Online payment integration
+- Admin dashboard
+- User communication system
+
+
 
 ### 📚 Currently Learning
 
@@ -60,4 +95,5 @@ My primary career goal is to become a **Backend Engineer**, while expanding my k
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/hyper101101
+- Telegram: https://t.me/S007Hyper
 
