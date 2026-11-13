@@ -60,7 +60,7 @@ A Laravel-based management and accounting application developed for a barberry p
 - Local network architecture
 
 #### 🌱 Nasl Aftab
-**Personal Project | In Development**
+**Company Project | In Development**
 
 A web-based e-commerce platform designed for selling agricultural products.
 
