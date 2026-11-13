@@ -2,26 +2,56 @@
 
 ### Backend Developer | Aspiring Backend Engineer | Machine Learning & Deep Learning Enthusiast
 
-I'm a PHP and Laravel developer passionate about backend engineering, software architecture, and building reliable, scalable applications.
+I'm a PHP and Laravel developer passionate about building reliable backend systems, designing clean architectures, and developing practical software solutions.
 
-My long-term goal is to become a skilled Backend Engineer while developing expertise in Machine Learning and Deep Learning.
-
-I'm particularly interested in combining backend engineering with intelligent systems to build practical AI-powered applications.
+My primary career goal is to become a **Backend Engineer**, while expanding my knowledge and skills in **Machine Learning and Deep Learning** to build intelligent applications.
 
 ### 🚀 About Me
 
-- 💻 Professional PHP & Laravel Developer
-- 🏗️ Focused on Backend Engineering and Software Architecture
-- 🗄️ Experienced with MySQL and database-driven applications
-- 🧠 Learning Machine Learning and Deep Learning
-- 🐍 Exploring Python for AI and intelligent applications
-- 🔬 Interested in developing and integrating machine learning models
-- 📚 Always learning, experimenting, and building.
+- 💻 Professional experience with PHP and Laravel
+- 🏗️ Interested in Backend Engineering and Software Architecture
+- 🗄️ Working with MySQL and relational databases
+- 🤖 Learning Machine Learning and Deep Learning
+- 🐍 Exploring Python for AI and machine learning development
+- 🎯 Focused on building real-world software projects
 
-### 🎯 My Current Focus
+### 🛠️ Tech Stack
 
-- Advanced Backend Development
-- Software Architecture & Design Patterns
+**Backend & Database**
+- PHP
+- Laravel
+- MySQL
+
+**Programming Languages**
+- C#
+- Python
+- JavaScript
+
+**Frontend**
+- React
+
+**Tools**
+- Git
+- Linux
+- VS Code
+
+### 📚 Currently Learning
+
+- Advanced Backend Engineering
+- Software Architecture and Design Patterns
+- Database Design and Optimization
 - Machine Learning
 - Deep Learning
-- AI-powered Software Applications
+- AI-powered Application Development
+
+### 🎯 My Goals
+
+- Become a skilled Backend Engineer
+- Build scalable and maintainable backend systems
+- Develop practical Machine Learning and Deep Learning models
+- Combine backend engineering with intelligent applications
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/hyper101101
+
